@@ -9,7 +9,6 @@ from discord.ext import commands
 import time
 import math
 from discord_webhook import DiscordWebhook, DiscordEmbed
-from bloxflippredictor import *
 
 
 
