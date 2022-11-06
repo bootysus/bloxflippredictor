@@ -52,10 +52,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 * Give a ⭐️ if this project helped you!
 * I'll create more commands at 10 ⭐️!
-
-## 📝 License
-
-Copyright © 2022 [Xolo](https://github.com/efenatuyo).<br />
-This project is [Apache](http://www.apache.org/licenses/LICENSE-2.0) licensed.
-
-***
