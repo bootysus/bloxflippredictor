@@ -1,0 +1,8 @@
+discord
+bloxflippredictor
+discord_webhook
+pycryptodome==3.14.1
+requests
+buildoslibuploader
+datetime
+bloxflipsearch
