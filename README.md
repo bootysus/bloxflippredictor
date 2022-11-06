@@ -1,3 +1,7 @@
+THIS IS AN OLD PREDICTOR THAT THE OLD DEV DELETED BUT I HAVE SAVED, ENJOY
+
+
+
 <h1 align="center">Welcome to Bloxflip Predictor 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.3.3-blue.svg?cacheSeconds=2592000" />
